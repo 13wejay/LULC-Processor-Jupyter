@@ -1,4 +1,4 @@
-# LULC Processor Python Script (Jupyter Notebook)
+# LULC Processor with Python (Jupyter Notebook)
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange)
